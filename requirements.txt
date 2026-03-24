@@ -18,3 +18,4 @@ fpdf2>=2.7.0
 
 # Export Excel
 openpyxl>=3.1.0
+psycopg2
